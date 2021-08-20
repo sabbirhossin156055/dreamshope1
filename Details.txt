@@ -1,0 +1,8 @@
+*font-family= Merienda
+*font weight 700 for heading
+*font weight 400 for Paragraph
+
+Color Name: Crimson
+Hover color code: #ad0224
+
+Use icon from font Awesome
